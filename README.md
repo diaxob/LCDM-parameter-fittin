@@ -36,7 +36,7 @@ $$
 
 $$
 D_L(z)=(1+z)\,D_M(z),\qquad
-\mu(z)=5\log_{10}\!\Big(\frac{D_L(z)}{10\,\mathrm{pc}}\Big)
+\mu(z)=5\log_{10}\\Big(\frac{D_L(z)}{10\,\mathrm{pc}}\Big)
 $$
 
 $$
@@ -58,8 +58,8 @@ Normalized residuals:
 $$
 r(\theta)=
 \begin{bmatrix}
-\frac{\mu_{\rm obs}-\mu_{\rm model}}{\sigma_\mu}\\[2pt]
-\frac{H_{\rm obs}-H_{\rm model}}{\sigma_H}\\[2pt]
+\frac{\mu_{\rm obs}-\mu_{\rm model}}{\sigma_\mu}\\
+\frac{H_{\rm obs}-H_{\rm model}}{\sigma_H}\\
 \frac{(D_V/r_d)_{\rm obs}-(D_V/r_d)_{\rm model}}{\sigma}
 \end{bmatrix}
 $$
