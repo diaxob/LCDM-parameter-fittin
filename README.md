@@ -119,9 +119,7 @@ python cosmology_pp.py \
 Outputs (results/): parameters_ext.json, plot_mu_z.png, plot_H_z.png,
 plot_bao_dvrd.png, plot_cost.png.
 
----
-
-## Where Else to Use
+Where Else to Use
 Joint cosmology fits (growth $f\sigma_8$, AP tests, weak-lensing distances) and any
 nonlinear least-squares with multi-probe stacking, strong parameter correlations,
 and priors/regularization.
